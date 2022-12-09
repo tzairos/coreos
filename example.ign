@@ -1,0 +1,7 @@
+variant: fcos
+version: 1.4.0
+passwd:
+  users:
+    - name: core
+      ssh_authorized_keys:
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQC9QXBpRhCh0uLk8lOSIIKdU0mNXtvCphb/UCBkAi7eWOt9PH77NBY5aylikrebAfTkOIHe9E7p/GvusNi0rUxrr11VYrc5Pxw3p5cuL/gKVLLg6s/lImiznk5Ya6VEjvRxZ9ttePxHoxlphGnGERonxaN0K4imZOAWxdjw+NEg7DVeObCM+yIV4ZBtNvp5rwW3cpo3WlwFYzMZeHqCnFkIqTt+dmyNTFgjR2I7WrzrcLNnZptfv64SUf1F6jqTfmxiIwoPDCgJd1imk3SkPdRYs8DmTxop21UYwVu7ZM9Byoj21bvad8O6asIuIFN4Uw+WAEvdGhtkLIT6RIC/r/2KxxLOQKIpTtRFiYW7T5zqk30F5q1wMFNCLbkZSM8vppymGF0YPH6L1kirUX3TQaVoFEfoT3VYWvHWZSOJBj33fMSlsBOZ0j6N9OGSNqGtrpbwHbGw6+9GLbklG7lyY4W48DTo3ecFf6PNZUQTpaWXQRv55+z+krQ8Y+8AthrAI3czRNLtvcZuUgXIlW/NdfRVj8Z2GS4dozxq5EKEkgY1rCJgT7xPzamayB1j9Fk/iBxZ3IIs6JTt/iZS7cdfLNPm9dCl+zKZShyX41S42j0HT8EfYWlZFn1x3lBGWR+dMVJYafevr+DQjD/f3aTW/iXrb+Jmy0nRk0vAnyXdaGg3TQ== kazimunsal@Kazm-MacBook-Pro.local
